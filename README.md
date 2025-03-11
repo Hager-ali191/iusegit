@@ -168,7 +168,6 @@ Okay so now that you know how to use git.
   <li>Kero Sarwat</li>
   <li>AbdElrahman Khatab xD</li>
     <li>d☆lia</li>
-    <li>Hager Ali</li>
 </ol> 
 <br><hr><br>
 
